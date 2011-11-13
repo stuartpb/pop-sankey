@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
-   sodipodi:docname="New document 1">
+   sodipodi:docname="community304rct.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.89"
-     inkscape:cx="158.64008"
-     inkscape:cy="741.66792"
+     inkscape:zoom="0.63"
+     inkscape:cx="338.42242"
+     inkscape:cy="735.84781"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -51,69 +51,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1"
-       id="rect2985"
-       width="560.24573"
-       height="142.42967"
-       x="114.04003"
-       y="52.367565" />
-    <text
-       xml:space="preserve"
-       style="font-size:10.31709385px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-       x="123.66275"
-       y="42.111485"
-       id="text2987"
-       sodipodi:linespacing="100%"
-       transform="scale(1.0003122,0.99968786)"><tspan
-         sodipodi:role="line"
-         id="tspan2989"
-         x="123.66275"
-         y="42.111485">Out of apartment (hallway/stairway - getting pizza)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14.92502117px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-       x="118.71252"
-       y="67.937126"
-       id="text2991"
-       sodipodi:linespacing="100%"
-       transform="scale(1.0003122,0.99968786)"><tspan
-         sodipodi:role="line"
-         id="tspan2993"
-         x="118.71252"
-         y="67.937126">foyer</tspan><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="82.862144"
-         id="tspan3017">(model)</tspan><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="97.787163"
-         id="tspan2995" /><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="112.71219"
-         id="tspan2997">bathroom</tspan><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="127.63721"
-         id="tspan2999" /><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="142.56223"
-         id="tspan3005">living room</tspan><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="157.48726"
-         id="tspan3015">(table)</tspan><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="172.41228"
-         id="tspan3011" /><tspan
-         sodipodi:role="line"
-         x="118.71252"
-         y="187.3373"
-         id="tspan3013">kitchen</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12.57148361px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
@@ -217,12 +154,12 @@
     <path
        inkscape:connector-curvature="0"
        id="path3891"
-       d="m 114.77272,387.6364 118.03151,0 23.10606,-62.96297 37.73825,-0.10494 13.22888,63.45234 75.13316,-0.20892"
+       d="m 114.77272,387.6364 118.03151,0 23.10606,-62.96297 25.56894,0.42416 25.39819,62.92324 186.77337,-0.20892"
        style="fill:none;stroke:#00d400;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#ff6600;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 306.31274,253.83025 0.0365,5.29101 23.28042,90.47619 57.50323,0"
+       d="m 306.31274,253.83025 0.0365,5.29101 23.80952,60.84657 162.79424,-0.5291"
        id="path3897"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -293,28 +230,28 @@
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#c87137;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 114.24925,287.80526 72.52324,-0.5291 13.78755,10.74005 58.00138,0.37106 6.51794,16.93788 24.33642,-0.23178 16.93026,14.71404 20.63809,-0.19655"
+       d="m 114.24925,287.80526 72.52324,-0.5291 13.78755,10.74005 58.00138,0.37106 6.51794,16.93788 24.33642,-0.23178 16.40116,38.52356 91.53257,-0.16032 10.587,-42.89338 35.44536,0.39384 20.37807,42.61841 32.53637,0.374"
        id="path3889"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="cccccccccccc" />
     <path
        style="fill:none;stroke:#666666;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 128.58562,252.94092 -0.22305,3.19462 4.09268,3.21087 65.959,-0.24748 10.05063,20.06552 62.30525,0.81688 8.06584,18.41259 19.57673,0.5291 12.69841,12.69842 19.57672,0"
+       d="m 128.58562,252.94092 -0.22305,3.19462 4.09268,3.21087 65.959,-0.24748 10.05063,20.06552 62.30525,0.81688 8.06584,18.41259 21.16403,1.0582 28.57143,65.60847 166.13757,0"
        id="path3893"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
        inkscape:connector-curvature="0"
        id="path3895"
-       d="m 120.0975,253.39684 0.42443,6.39779 7.70051,7.94421 64.89925,-0.5291 10.58201,21.16402 60.18813,0.5291 7.53674,17.95667 23.28042,0.5291 13.22752,13.22751 20.63492,1e-5"
+       d="m 120.0975,253.39684 0.42443,6.39779 7.70051,7.94421 64.89925,-0.5291 10.58201,21.16402 60.18813,0.5291 7.53674,17.95667 23.28042,0.5291 28.57144,66.13756 170.89947,1e-5"
        style="fill:none;stroke:#d40055;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cccccccccc" />
     <path
        inkscape:connector-curvature="0"
        id="path3899"
-       d="m 370.62943,287.65893 -62.3016,-0.5291 -10.44423,-27.36024 0.5291,-6.34921"
+       d="m 298.4127,253.42038 -0.5291,6.34921 10.97333,24.18564 50.94265,-0.63905 15.59176,45.0835 118.78856,0.15298"
        style="fill:none;stroke:#000080;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:nodetypes="cccc" />
+       sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
@@ -356,9 +293,9 @@
          y="282.65097"
          id="tspan3927">real pizza</tspan></text>
     <path
-       sodipodi:nodetypes="cccccc"
+       sodipodi:nodetypes="cccccccccc"
        style="fill:none;stroke:#502d16;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 385.2282,340.79975 -48.71861,0.76142 -12.16879,-45.57075 -21.68875,-0.16422 -13.27052,-34.45571 0.21176,-7.34323"
+       d="m 496.33933,345.56167 -27.76461,-0.44111 -4.02128,-7.53505 -95.25244,0.30511 -3.68563,-8.36666 -24.34387,-0.66119 -12.1688,-36.57605 -26.45065,-0.16422 -13.27052,-30.75201 0.21176,-7.34323"
        id="path3931"
        inkscape:connector-curvature="0" />
     <text
@@ -377,5 +314,51 @@
          x="-297.4166"
          sodipodi:role="line"
          id="tspan3992">busted</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text3994"
+       y="509.4834"
+       x="-376.15359"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica Bold"
+       xml:space="preserve"><tspan
+         y="509.4834"
+         x="-376.15359"
+         id="tspan3996"
+         sodipodi:role="line">YAHTZEE!</tspan></text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:linespacing="100%"
+       id="text3998"
+       y="519.53638"
+       x="-363.98431"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+       xml:space="preserve"><tspan
+         y="519.53638"
+         x="-363.98431"
+         id="tspan4000"
+         sodipodi:role="line">(titles)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:54.70267868px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica Bold"
+       x="110.3208"
+       y="80.672462"
+       id="text4002"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4004"
+         x="110.3208"
+         y="80.672462">Remedial Chaos Theory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.02637672px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+       x="113.84509"
+       y="26.423027"
+       id="text4006"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4008"
+         x="113.84509"
+         y="26.423027">Community, Season Three, Episode Four</tspan></text>
   </g>
 </svg>
