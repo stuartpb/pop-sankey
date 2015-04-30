@@ -245,8 +245,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40789474"
-     inkscape:cx="6147.118"
-     inkscape:cy="897.73812"
+     inkscape:cx="6112.3919"
+     inkscape:cy="751.03949"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -603,19 +603,23 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:5.32999991999999970px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;text-anchor:end;text-align:end"
-       x="7565.5527"
-       y="55.483879"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:5.32999992px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="7545.9399"
+       y="84.903236"
        id="text3202"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="6325.1611"
-         y="55.483879"
-         id="tspan3212">Timeline by Stuart P. Bentley (@stuartpb), with help from Wikipedia</tspan><tspan
+         x="7545.9399"
+         y="84.903236"
+         id="tspan3212">Timeline by Stuart P. Bentley, with help from Wikipedia</tspan><tspan
          sodipodi:role="line"
-         x="6325.1611"
-         y="105.48388"
-         id="tspan3206">https://stuartpb.com</tspan></text>
+         x="7545.9399"
+         y="134.90323"
+         id="tspan3206">@stuartpb | <a xlink:href="https://stuartpb.com/">https://stuartpb.com</a></tspan><tspan
+         sodipodi:role="line"
+         x="7545.9399"
+         y="184.90323"
+         id="tspan3216"><a xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0/">http://creativecommons.org/licenses/by-nc-sa/4.0/</a></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
