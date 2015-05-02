@@ -248,11 +248,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40789474"
-     inkscape:cx="1900"
-     inkscape:cy="400"
+     inkscape:zoom="1.1537005"
+     inkscape:cx="3117.3211"
+     inkscape:cy="351.52631"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:object-nodes="false"
@@ -272,7 +272,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
@@ -1039,7 +1039,7 @@
        sodipodi:nodetypes="cccccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1994.0357,893.79073 802.8572,1.4286 32.8571,-44.2857 531.4286,1.42855 164.5586,-26.45265"
+       d="m 1994.0357,893.79073 802.8572,1.4286 32.8571,-44.2857 416.1474,0.56177 71.8135,71.49305"
        id="path4273"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
